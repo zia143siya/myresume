@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"DR. KV.SUBBAREDDYCOLLEGE OF ENGINEERING FOR WOMEN",
+    "data":["2015-19","75%"]
+},
+  {
+    "degree":"intermediate board of  education",
+    "college":"NARAYANA.JR.COLLEGE",
+    "data":["2013-15","77%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"SRI LAKSHMI HIGH SCHOOL",
+    "data":["2012-13","72%"]
+  }
+]
+}

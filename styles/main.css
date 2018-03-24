@@ -7,14 +7,14 @@ body{
   }
   .profile-card{
     width:30%;
-    background-color:#cd5c5c;
+    background-color:#7CFEFF;
     padding:2%;
     margin: 2%;
-    border:3px double green;
+    border:3px double SKYBLUE;
   }
   .content-card{
     width:70%;
-    background-color:#cd5c5c;
+    background-color:#7CFEFF;
     padding:2%;
     margin: 2%;
     box-shadow: 3px 3px 3px 3px red;
@@ -80,7 +80,7 @@ h2,h3,h4{
     background-color:#4aea04;
     padding:2%;
     margin: 2%;
-    border:3px solid black;
+    border:3px solid PINK;
   }
   .content-card{
     width:100%;
